@@ -21,6 +21,4 @@ The chatbot uses **LangChain**, **FAISS**, **HuggingFace embeddings**, and **Goo
 - [Google Gemini](https://ai.google.dev/) – large language model for response generation  
 - [PyPDFLoader](https://python.langchain.com/docs/modules/data_connection/document_loaders/pdf) – PDF ingestion  
 
----
 
-## 📂 Project Structure
